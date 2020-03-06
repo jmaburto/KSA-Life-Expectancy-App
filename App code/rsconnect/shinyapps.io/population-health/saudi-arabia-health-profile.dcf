@@ -1,0 +1,13 @@
+name: saudi-arabia-health-profile
+title: Saudi-Arabia-Health-Profile
+username:
+account: population-health
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 351152
+bundleId: 2748677
+url: https://population-health.shinyapps.io/saudi-arabia-health-profile/
+when: 1579787662.34499
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: COD_Distribution.RData|Fraction.Rdata|UsersManual180530.docx|WB2018_app.R|Test/server.R|Test/ui.R
